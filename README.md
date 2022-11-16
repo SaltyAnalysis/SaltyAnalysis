@@ -5,6 +5,8 @@
 - 📫 You can reach me via the Contact page on our main site: https://saltyanalysis.wordpress.com/
 ✨ If you are interested in following us, you can also subscribe to our main site for update notifications ✨
 <!---
+"Hello, what brings you to our source code?" - Salty
+
 SaltyAnalysis/SaltyAnalysis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
